@@ -1,5 +1,4 @@
-# taskone
-installing the package arduino_robot_arm
+# installing the package arduino_robot_arm
 
 in the first task we were asked to install ROS and the arduino robot arm package and control it 
 
