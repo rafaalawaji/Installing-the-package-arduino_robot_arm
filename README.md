@@ -1,6 +1,7 @@
 # installing the package arduino_robot_arm
 
 in the first task we were asked to install ROS and the arduino robot arm package and control it 
+and the attached video shows the arm being controlled 
 
 1- sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
